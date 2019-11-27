@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Please, run ### `yarn install` first.
+Please, run `yarn install` first.
 
 ## Available Scripts
 
